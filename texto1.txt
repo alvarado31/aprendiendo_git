@@ -1,2 +1,2 @@
-Estamos aprendiento a utilizar git
+ Estamos aprendiento a utilizar git de una forma sencilla 
 
