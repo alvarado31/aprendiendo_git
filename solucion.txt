@@ -1,0 +1,44 @@
+ 
+
+
+Literal					Comandos utilizados durante la practica:
+
+ 2					mkdir gerardo_alvarado
+ 3					cd gerardo_alvarado mkdir aprendiendo_git
+ 4					cd aprendiendo_git git init
+ 5					git config usar.name "gerardo" git config 
+					user.email "gerardo@gmail.com"
+ 6					git status
+ 7					nano texto1.txt 
+ 8					git add *txt
+ 9					git commit -m [mensaje descriptivo] 
+ 10					git status
+ 11					mkdir directorio1 
+					nano texto2.txt nano texto3.txt
+ 12					nano texto1.txt
+ 13					git diff
+ 14					git add *txt
+ 15					git status
+ 16					git reset texto2.txt
+ 17					git commit -m [realizando el segundo commit]
+ 18					git log
+ 19					nano texto2.txt
+ 20					nano texto1.txt
+ 21					git diff
+ 22					git add *
+ 23					git commit -m [Realizando mi tercer commit]
+ 24----					git reset texto1 .txt
+					git log --oneline
+					git checkout "codigo del commit"
+ 25------------------------------------------------------------------------------------------------					
+ 26------------------------------------------------------------------------------------------------					
+ 27					git branch [nmbre de la rama] "rama2"
+ 28					git checkout "rama2"
+ 29					mkdir directorio2 
+					nano texto4.txt
+ 30					git add *txt
+					git commit -m [Realizando un nuevo commit]
+ 31					git log
+ 32					git checkout master
+					git log
+ 33					git add merger
